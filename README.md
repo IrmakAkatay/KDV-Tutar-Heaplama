@@ -4,10 +4,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-
-           //Eğer girilen tutar 0 ve 1000 TL arasında ise KDV oranı %18
-        //tutar 1000 TL'den büyük ise KDV oranını %8 olarak ,
-        // KDV tutarı hesaplayan programı yazınız.
+    .
 
         double tutar,kdvOran=0.18,kdvliTutar,kdvOranı1= 0.18,kdvOranı2= 0.08,kdvTutarı1,kdvTutarı2,kdvOranı ;
 
